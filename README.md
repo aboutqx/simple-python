@@ -1,3 +1,3 @@
 # simple-python
 
-plot.py 多元的梯度算法
+gradient 多元的梯度算法
